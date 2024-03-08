@@ -5,7 +5,7 @@
 <br>【概要】
 <br>画面１：TableViewにAPIから読み込んだ犬種を表示する
 <br>画面２：画面１で選択したデータを引き継ぎ、選択された犬種の画像データをAlamofireを使ってCollectionViewに表示する
-<br>画面3：画面２で選択した画像データをImageViewに表示する
+<br>画面３：画面２で選択した画像データをImageViewに表示する
 
 <br>【ポイント】
 <br>・外部APIおよびJSONデータの利用
