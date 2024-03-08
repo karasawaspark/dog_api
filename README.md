@@ -1,5 +1,6 @@
 # dogアプリ
-![Uploading Simulator Screen Recording - iPhone 14 Pro - 2024-03-08 at 13.16.40.gif…]()
+![Simulator Screen Recording - iPhone 14 Pro - 2024-03-08 at 13 16 40](https://github.com/karasawaspark/dog_api/assets/156158259/490db18c-a282-44b6-bc0f-2b870fd80baa)
+
 
 
 <br>【概要】
